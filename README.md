@@ -19,7 +19,7 @@ After cloned it go to this project: Two
 cd Customer-Management-System
 
 
-After stand in project must install all dependencies : Third
+After stand in project must install all dependencies : Third.
 
 npm install
 
@@ -32,7 +32,7 @@ Back-end :Express.js and Mongoose in Database
 to link between front and back using EJS 
 Front-end : Bootstrap and HTML&CSS
 
-The actully for the project called  (Static App) because these pages rendered from server not using API
+The actully for the project called  (Dynamic SSR App) because these pages rendered from server.
 
 this is frist step in my career to create full-stack app befor entered to React in front-end
 
