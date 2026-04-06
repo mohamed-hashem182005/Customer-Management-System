@@ -17,18 +17,27 @@
 
 ## 📖 Table of Contents
 
-- [About The Project](#-about-the-project)
-- [Features](#-features)
-- [Tech Stack](#-tech-stack)
-- [Project Structure](#-project-structure)
-- [Prerequisites](#-prerequisites)
-- [Getting Started](#-getting-started)
-- [Environment Variables](#-environment-variables)
-- [Usage](#-usage)
-- [Roadmap](#-roadmap)
-- [Contributing](#-contributing)
-- [License](#-license)
-- [Author](#-author)
+- [📋 Customer Management System](#-customer-management-system)
+    - [A Dynamic Full-Stack Web Application for Managing Customer Records](#a-dynamic-full-stack-web-application-for-managing-customer-records)
+  - [📖 Table of Contents](#-table-of-contents)
+  - [🚀 About The Project](#-about-the-project)
+  - [✨ Features](#-features)
+  - [🛠 Tech Stack](#-tech-stack)
+  - [📁 Project Structure](#-project-structure)
+  - [📦 Prerequisites](#-prerequisites)
+  - [⚙️ Getting Started](#️-getting-started)
+    - [1. Clone the repository](#1-clone-the-repository)
+    - [2. Navigate into the project directory](#2-navigate-into-the-project-directory)
+    - [3. Install all dependencies](#3-install-all-dependencies)
+    - [4. Set up environment variables](#4-set-up-environment-variables)
+    - [5. Start the development server](#5-start-the-development-server)
+  - [🔐 Environment Variables](#-environment-variables)
+  - [💻 Usage](#-usage)
+    - [Available Routes](#available-routes)
+  - [🗺 Roadmap](#-roadmap)
+  - [🤝 Contributing](#-contributing)
+  - [📄 License](#-license)
+  - [👨‍💻 Author](#-author)
 
 ---
 
@@ -141,10 +150,6 @@ Create a `.env` file in the root directory (see [Environment Variables](#-enviro
 ```bash
 npm run start
 ```
-
-The app will be running at **http://localhost:3000** (or the port defined in your `.env`).
-
----
 
 ## 🔐 Environment Variables
 
@@ -267,7 +272,6 @@ SOFTWARE.
 ---
 
 <div align="center">
-
-⭐ **If you find this project helpful, please give it a star!** ⭐
-
+⭐ If you find this project helpful, please give it a star! ⭐
+Built with ❤️ as the first step of a full-stack development journey.
 </div>
